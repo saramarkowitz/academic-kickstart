@@ -10,9 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role:
-- Professor of Economics
-- Director of Graduate Studies
+role: Professor of Economics, Director of Graduate Studies
 
 # Organizations/Affiliations
 organizations:
