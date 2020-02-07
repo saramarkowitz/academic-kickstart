@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sara Markowitz
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role:
+- Professor of Economics
+- Director of Graduate Studies
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Emory University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Health Economics and Labor Economics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Health Econommics
+- Labor Economics
+
 
 education:
   courses:
