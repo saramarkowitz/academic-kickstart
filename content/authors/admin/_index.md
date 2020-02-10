@@ -23,6 +23,7 @@ bio: My research interests include Health Economics and Labor Economics.
 interests:
 - Health Econommics
 - Labor Economics
+- Applied Microeconomics
 
 
 education:

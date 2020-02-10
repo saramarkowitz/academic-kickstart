@@ -1,5 +1,5 @@
 +++
-title = "Where there{'}s smoking, there{'}s fire: The effects of smoking policies on the incidence of fires in the USA"
+title = "Where there's smoking, there's fire: The effects of smoking policies on the incidence of fires in the USA"
 date = "2014-01-01"
 authors = ["S. Markowitz"]
 publication_types = ["2"]
