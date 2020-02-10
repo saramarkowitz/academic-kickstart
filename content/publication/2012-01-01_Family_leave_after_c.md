@@ -2,6 +2,7 @@
 title = "Family leave after childbirth and the mental health of new mothers"
 date = "2012-01-01"
 authors = ["P. Chatterji", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Journal of Mental Health Policy and Economics, (15), 2, _pp. 61-76_"
 publication_short = "Journal of Mental Health Policy and Economics, (15), 2, _pp. 61-76_"
 abstract = ""

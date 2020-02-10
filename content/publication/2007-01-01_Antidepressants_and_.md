@@ -2,6 +2,7 @@
 title = "Antidepressants and youth: Healing or harmful?"
 date = "2007-01-01"
 authors = ["S. Markowitz", "A. Cuellar"]
+publication_types = ["2"]
 publication = "Social Science and Medicine, (64), 10, _pp. 2138-2151_"
 publication_short = "Social Science and Medicine, (64), 10, _pp. 2138-2151_"
 abstract = ""

@@ -2,6 +2,7 @@
 title = "Does the length of maternity leave affect maternal health?"
 date = "2005-01-01"
 authors = ["P. Chatterji", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Southern Economic Journal, (72), 1, _pp. 16-41_"
 publication_short = "Southern Economic Journal, (72), 1, _pp. 16-41_"
 abstract = ""

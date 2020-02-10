@@ -2,6 +2,7 @@
 title = "Child access prevention laws and nonfatal gun injuries"
 date = "2013-01-01"
 authors = ["J. DeSimone", "S. Markowitz", "J. Xu"]
+publication_types = ["2"]
 publication = "Southern Economic Journal, (80), 1, _pp. 5-25_"
 publication_short = "Southern Economic Journal, (80), 1, _pp. 5-25_"
 abstract = ""

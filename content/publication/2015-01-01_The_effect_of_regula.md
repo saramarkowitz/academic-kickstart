@@ -2,6 +2,7 @@
 title = "The effect of regulated competition on pharmaceutical advertising and promotion"
 date = "2015-01-01"
 authors = ["G. David", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Eastern Economic Journal, (41), 1, _pp. 24-39_"
 publication_short = "Eastern Economic Journal, (41), 1, _pp. 24-39_"
 abstract = ""

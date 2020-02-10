@@ -2,6 +2,7 @@
 title = "Incentives in obesity and health insurance"
 date = "2009-01-01"
 authors = ["I.R. Kelly", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Inquiry, (46), 4, _pp. 418-432_"
 publication_short = "Inquiry, (46), 4, _pp. 418-432_"
 abstract = ""

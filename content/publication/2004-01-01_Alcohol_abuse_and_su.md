@@ -2,6 +2,7 @@
 title = "Alcohol abuse and suicide attempts among youth"
 date = "2004-01-01"
 authors = ["P. Chatterji", "D. Dave", "R. Kaestner", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Economics and Human Biology, (2), 2, _pp. 159-180_"
 publication_short = "Economics and Human Biology, (2), 2, _pp. 159-180_"
 abstract = ""

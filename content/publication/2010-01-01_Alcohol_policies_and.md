@@ -2,6 +2,7 @@
 title = "Alcohol policies and child maltreatment"
 date = "2010-01-01"
 authors = ["S. Markowitz", "M. Grossman", "R. Conrad"]
+publication_types = ["2"]
 publication = "Contributions to Economic Analysis, (290), _pp. 17-35_"
 publication_short = "Contributions to Economic Analysis, (290), _pp. 17-35_"
 abstract = ""

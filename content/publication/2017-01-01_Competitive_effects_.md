@@ -2,6 +2,7 @@
 title = "Competitive effects of scope of practice restrictions: Public health or public harm?"
 date = "2017-01-01"
 authors = ["S. Markowitz", "E.K. Adams", "M.J. Lewitt", "A.L. Dunlop"]
+publication_types = ["2"]
 publication = "Journal of Health Economics, (55), _pp. 201-218_"
 publication_short = "Journal of Health Economics, (55), _pp. 201-218_"
 abstract = ""

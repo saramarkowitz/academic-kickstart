@@ -2,6 +2,7 @@
 title = "The Pass-Through of Beer Taxes To Prices: Evidence From State and Federal Tax Changes"
 date = "2016-01-01"
 authors = ["V. Shrestha", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Economic Inquiry, (54), 4, _pp. 1946-1962_"
 publication_short = "Economic Inquiry, (54), 4, _pp. 1946-1962_"
 abstract = ""

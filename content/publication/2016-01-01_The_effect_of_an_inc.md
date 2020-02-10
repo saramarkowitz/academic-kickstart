@@ -2,6 +2,7 @@
 title = "The effect of an increased minimum wage on infant mortality and birth weight"
 date = "2016-01-01"
 authors = ["K.A. Komro", "M.D. Livingston", "S. Markowitz", "A.C. Wagenaar"]
+publication_types = ["2"]
 publication = "American Journal of Public Health, (106), 8, _pp. 1514-1516_"
 publication_short = "American Journal of Public Health, (106), 8, _pp. 1514-1516_"
 abstract = ""

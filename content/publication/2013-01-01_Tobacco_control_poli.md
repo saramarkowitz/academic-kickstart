@@ -2,6 +2,7 @@
 title = "Tobacco control policies, birth outcomes, and maternal human capital"
 date = "2013-01-01"
 authors = ["S. Markowitz", "E. {Kathleen Adams}", "P.M. Dietz", "V. Kannan", "V.T. Tong"]
+publication_types = ["2"]
 publication = "Journal of Human Capital, (7), 2, _pp. 130-160_"
 publication_short = "Journal of Human Capital, (7), 2, _pp. 130-160_"
 abstract = ""

@@ -2,6 +2,7 @@
 title = "Estimating the Relationship between Alcohol Policies and Criminal Violence and Victimization"
 date = "2012-01-01"
 authors = ["S. Markowitz", "E. Nesson", "E. Poe-Yamagata", "C. Florence", "P. Deb", "T. Andrews", "S.B.L. Barnett"]
+publication_types = ["2"]
 publication = "German Economic Review, (13), 4, _pp. 416-435_"
 publication_short = "German Economic Review, (13), 4, _pp. 416-435_"
 abstract = ""

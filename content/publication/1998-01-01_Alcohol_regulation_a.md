@@ -2,6 +2,7 @@
 title = "Alcohol regulation and domestic violence towards children"
 date = "1998-01-01"
 authors = ["S. Markowitz", "M. Grossman"]
+publication_types = ["2"]
 publication = "Contemporary Economic Policy, (16), 3, _pp. 309-320_"
 publication_short = "Contemporary Economic Policy, (16), 3, _pp. 309-320_"
 abstract = ""

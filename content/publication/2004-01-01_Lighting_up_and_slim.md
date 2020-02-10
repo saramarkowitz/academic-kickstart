@@ -2,6 +2,7 @@
 title = "Lighting up and slimming down: The effects of body weight and cigarette prices on adolescent smoking initiation"
 date = "2004-01-01"
 authors = ["J. Cawley", "S. Markowitz", "J. Tauras"]
+publication_types = ["2"]
 publication = "Journal of Health Economics, (23), 2, _pp. 293-311_"
 publication_short = "Journal of Health Economics, (23), 2, _pp. 293-311_"
 abstract = ""

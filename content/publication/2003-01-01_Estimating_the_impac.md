@@ -2,6 +2,7 @@
 title = "Estimating the impact of alcohol policies on youth suicides"
 date = "2003-01-01"
 authors = ["S. Markowitz", "P. Chatterji", "R. Kaestner"]
+publication_types = ["2"]
 publication = "Journal of Mental Health Policy and Economics, (6), 1, _pp. 37-46_"
 publication_short = "Journal of Mental Health Policy and Economics, (6), 1, _pp. 37-46_"
 abstract = ""

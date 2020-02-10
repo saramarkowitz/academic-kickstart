@@ -2,6 +2,7 @@
 title = "The effect of price on counselling sessions attended by depression patients"
 date = "2003-01-01"
 authors = ["J. Desimone", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Applied Economics Letters, (10), 14, _pp. 899-903_"
 publication_short = "Applied Economics Letters, (10), 14, _pp. 899-903_"
 abstract = ""

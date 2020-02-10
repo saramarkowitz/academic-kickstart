@@ -2,6 +2,7 @@
 title = "The effects of employment on influenza rates"
 date = "2019-01-01"
 authors = ["S. Markowitz", "E. Nesson", "J.J. Robinson"]
+publication_types = ["2"]
 publication = "Economics and Human Biology, (34), _pp. 286-295_"
 publication_short = "Economics and Human Biology, (34), _pp. 286-295_"
 abstract = ""

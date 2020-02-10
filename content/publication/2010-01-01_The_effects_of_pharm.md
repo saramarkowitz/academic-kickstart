@@ -2,6 +2,7 @@
 title = "The effects of pharmaceutical marketing and promotion on adverse drug events and regulation"
 date = "2010-01-01"
 authors = ["G. David", "S. Markowitz", "S. Richards-Shubik"]
+publication_types = ["2"]
 publication = "American Economic Journal: Economic Policy, (2), 4, _pp. 1-25_"
 publication_short = "American Economic Journal: Economic Policy, (2), 4, _pp. 1-25_"
 abstract = ""

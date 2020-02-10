@@ -2,6 +2,7 @@
 title = "The impact of maternal alcohol and illicit drug use on children{'}s behavior problems: Evidence from the children of the national longitudinal survey of youth"
 date = "2001-01-01"
 authors = ["P. Chatterji", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Journal of Health Economics, (20), 5, _pp. 703-731_"
 publication_short = "Journal of Health Economics, (20), 5, _pp. 703-731_"
 abstract = ""

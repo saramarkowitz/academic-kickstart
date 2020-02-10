@@ -2,6 +2,7 @@
 title = "Mental health and substance abuse treatment and juvenile crime"
 date = "2004-01-01"
 authors = ["A.E. Cuellar", "S. Markowitz", "A.M. Libby"]
+publication_types = ["2"]
 publication = "Journal of Mental Health Policy and Economics, (7), 2, _pp. 59-68_"
 publication_short = "Journal of Mental Health Policy and Economics, (7), 2, _pp. 59-68_"
 abstract = ""

@@ -2,6 +2,7 @@
 title = "The relationship between suicidal behavior and productive activities of young adults"
 date = "2008-01-01"
 authors = ["E. Tekin", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Southern Economic Journal, (75), 2, _pp. 300-331_"
 publication_short = "Southern Economic Journal, (75), 2, _pp. 300-331_"
 abstract = ""

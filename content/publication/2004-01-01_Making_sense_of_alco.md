@@ -2,6 +2,7 @@
 title = "Making sense of alcohol polocies on youth self-destructive behavior as part of suicide [multiple letters]"
 date = "2004-01-01"
 authors = ["M. Pompili", "I. Mancinelli", "P. Girardi", "R. Tatarelli", "S. Markowitz", "P. Chatterji", "R. Kaestner"]
+publication_types = ["2"]
 publication = "Journal of Mental Health Policy and Economics, (7), 1, _pp. 37-38_"
 publication_short = "Journal of Mental Health Policy and Economics, (7), 1, _pp. 37-38_"
 abstract = ""

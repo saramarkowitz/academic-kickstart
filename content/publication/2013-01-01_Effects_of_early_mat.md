@@ -2,6 +2,7 @@
 title = "Effects of early maternal employment on maternal health and well-being"
 date = "2013-01-01"
 authors = ["P. Chatterji", "S. Markowitz", "J. Brooks-Gunn"]
+publication_types = ["2"]
 publication = "Journal of Population Economics, (26), 1, _pp. 285-301_"
 publication_short = "Journal of Population Economics, (26), 1, _pp. 285-301_"
 abstract = ""

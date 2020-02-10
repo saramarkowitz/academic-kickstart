@@ -2,6 +2,7 @@
 title = "Is youth smoking responsive to cigarette prices? evidence from low- and middle-income countries"
 date = "2011-01-01"
 authors = ["D. Kostova", "H. Ross", "E. Blecher", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Tobacco Control, (20), 6, _pp. 419-424_"
 publication_short = "Tobacco Control, (20), 6, _pp. 419-424_"
 abstract = ""

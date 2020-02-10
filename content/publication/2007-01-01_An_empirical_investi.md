@@ -2,6 +2,7 @@
 title = "An empirical investigation of the social market for cigarettes"
 date = "2007-01-01"
 authors = ["B. Katzman", "S. Markowitz", "K.A. McGeary"]
+publication_types = ["2"]
 publication = "Health Economics, (16), 10, _pp. 1025-1039_"
 publication_short = "Health Economics, (16), 10, _pp. 1025-1039_"
 abstract = ""

@@ -2,6 +2,7 @@
 title = "Aging and aggregate costs of medical care: Conceptual and policy issues"
 date = "2004-01-01"
 authors = ["D. Chernichovsky", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Health Economics, (13), 6, _pp. 543-562_"
 publication_short = "Health Economics, (13), 6, _pp. 543-562_"
 abstract = ""

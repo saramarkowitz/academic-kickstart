@@ -2,6 +2,7 @@
 title = "Medicaid policy changes in mental health care and their effect on mental health outcomes"
 date = "2007-01-01"
 authors = ["A.E. Cuellar", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Health Economics, Policy and Law, (2), 1, _pp. 23-49_"
 publication_short = "Health Economics, Policy and Law, (2), 1, _pp. 23-49_"
 abstract = ""

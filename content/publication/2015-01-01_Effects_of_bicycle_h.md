@@ -2,6 +2,7 @@
 title = "Effects of bicycle helmet laws on children{'}s injuries"
 date = "2015-01-01"
 authors = ["S. Markowitz", "P. Chatterji"]
+publication_types = ["2"]
 publication = "Health Economics (United Kingdom), (24), 1, _pp. 26-40_"
 publication_short = "Health Economics (United Kingdom), (24), 1, _pp. 26-40_"
 abstract = ""

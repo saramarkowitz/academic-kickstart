@@ -2,6 +2,7 @@
 title = "Job mobility among parents of children with chronic health conditions: Early effects of the 2010 Affordable Care Act"
 date = "2016-01-01"
 authors = ["P. Chatterji", "P. Brandon", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Journal of Health Economics, (48), _pp. 26-43_"
 publication_short = "Journal of Health Economics, (48), _pp. 26-43_"
 abstract = ""

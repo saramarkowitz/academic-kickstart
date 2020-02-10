@@ -2,6 +2,7 @@
 title = "Tobacco control policies and youth smoking: evidence from a new era."
 date = "2005-01-01"
 authors = ["J.A. Tauras", "S. Markowitz", "J. Cawley"]
+publication_types = ["2"]
 publication = "Advances in health economics and health services research, (16), _pp. 277-291_"
 publication_short = "Advances in health economics and health services research, (16), _pp. 277-291_"
 abstract = ""

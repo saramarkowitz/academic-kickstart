@@ -2,6 +2,7 @@
 title = "A cure for crime: Psycho-pharmaceuticals and crime trends"
 date = "2011-01-01"
 authors = ["D.E. Marcotte", "S. Markowitz"]
+publication_types = ["2"]
 publication = "Journal of Policy Analysis and Management, (30), 1, _pp. 29-56_"
 publication_short = "Journal of Policy Analysis and Management, (30), 1, _pp. 29-56_"
 abstract = ""

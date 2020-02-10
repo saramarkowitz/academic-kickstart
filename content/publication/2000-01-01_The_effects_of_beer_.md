@@ -2,6 +2,7 @@
 title = "The effects of beer taxes on physical child abuse"
 date = "2000-01-01"
 authors = ["S. Markowitz", "M. Grossman"]
+publication_types = ["2"]
 publication = "Journal of Health Economics, (19), 2, _pp. 271-282_"
 publication_short = "Journal of Health Economics, (19), 2, _pp. 271-282_"
 abstract = ""

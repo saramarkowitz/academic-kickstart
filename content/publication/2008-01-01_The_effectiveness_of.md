@@ -2,6 +2,7 @@
 title = "The effectiveness of cigarette regulations in reducing cases of Sudden Infant Death Syndrome"
 date = "2008-01-01"
 authors = ["S. Markowitz"]
+publication_types = ["2"]
 publication = "Journal of Health Economics, (27), 1, _pp. 106-133_"
 publication_short = "Journal of Health Economics, (27), 1, _pp. 106-133_"
 abstract = ""
