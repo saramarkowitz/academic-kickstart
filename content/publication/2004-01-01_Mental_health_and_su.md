@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = ""
+url_pdf = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.503.6210&rep=rep1&type=pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

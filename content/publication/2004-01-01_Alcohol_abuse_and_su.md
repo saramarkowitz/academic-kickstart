@@ -19,7 +19,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.sciencedirect.com/science/article/pii/S1570677X04000292"
+url_source = ""
 math = true
 highlight = true
 [header]
