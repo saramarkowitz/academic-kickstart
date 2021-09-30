@@ -1,6 +1,6 @@
 +++
 title = "The Effects of State Scope of Practice Laws on the Labor Supply of Advanced Practice Registered Nurses"
-date = "2021-01-01"
+date = "2021-07-01"
 authors = ["S. Markowitz", "E.K. Adams"]
 publication_types = ["2"]
 publication = "American Journal of Health Economics, forthcoming"
