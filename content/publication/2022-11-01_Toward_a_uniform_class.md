@@ -16,6 +16,7 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
+links = [{name="NBER Working Paper",url="https://www.nber.org/papers/w28192"}]
 url_slides = ""
 url_video = ""
 url_poster = ""
