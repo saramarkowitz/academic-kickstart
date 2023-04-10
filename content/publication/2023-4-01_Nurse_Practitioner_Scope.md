@@ -1,7 +1,7 @@
 +++
 title = "Nurse Practitioner Scope of Practice and Patient Harm: Evidence from Medical Malpractice Cases and Adverse Action Reports"
 date = "2023-04-01"
-authors = ["S. Markowitz" "A. Smith", ]
+authors = ["S. Markowitz", "A. Smith"]
 publication_types = ["3"]
 publication = "NBER Working Paper #31109"
 publication_short = "NBER Working Paper #31109"
