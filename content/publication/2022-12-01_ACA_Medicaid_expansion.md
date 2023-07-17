@@ -1,5 +1,5 @@
 +++
-title = "Affordable Care Act Medicaid Expansions and Maternal Morbidity"
+title = "Affordable Care Act Medicaid Expansions and Maternal Morbidity "
 date = "2023-7-01"
 authors = ["P. Chatterji", "H. Glenn", "S. Markowitz", "J. Karas Montez"]
 publication_types = ["2"]
